@@ -251,9 +251,13 @@ The report contains:
 - Top 5 Candidates
 - Hiring Recommendation
 
+[View Sample Screening Report](outputs/report.md)
+
 ### 2. `scores.png`
 
 A bar chart showing the score of every candidate out of 100.
+
+![Candidate Scores](outputs/scores.png)
 
 ---
 
